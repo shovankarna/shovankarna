@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shovan Karna</h1>
-<h3 align="center">An experienced Java FullStack Developer</h3>
+<h3 align="center">A software engineer (full-stack dev) who loves to create intresting and innovating stuff.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/shovankarna/git-profile-data/blob/master/imgonline-com-ua-ReplaceColor-f0t584JNfI58iGo-removebg-preview.png" />
 
